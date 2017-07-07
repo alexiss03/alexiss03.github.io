@@ -1,8 +1,9 @@
 Mary Alexis Solis
 =================
 
-iOS Developer
--------------
+------------- 
+**iOS Developer**
+
 
 *Carpe Diem*
 
