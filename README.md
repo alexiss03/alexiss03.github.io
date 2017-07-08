@@ -1,13 +1,2 @@
 
-
-
-Mary Alexis Solis
-=================
-
-
-**iOS Developer**
-
-
-*Carpe Diem*
-
-*brewing meaningful content*
+*I am an iOS developer | still brewing meaningful content for this page.*
